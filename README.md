@@ -29,8 +29,9 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Ansible-informational?style=for-the-badge&logo=Ansible&logoColor=EE0000&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Selenium-informational?style=for-the-badge&logo=Selenium&logoColor=43B02A&color=213A5C)&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=F37626&color=213A5C)&nbsp;&nbsp;&nbsp;
-
+![](https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=F37626&color=213A5C)&nbsp;&nbsp;&nbsp;  
+![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=Git&logoColor=F05032&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=Jira&logoColor=0052CC&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 ## Current Statistics
 
