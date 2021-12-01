@@ -1,7 +1,7 @@
 Hi, I’m @RileyJRaso or you can call me Riley!  
   
 I’m interested in:  
-Pursuing **Data Science** Co-ops and developing my Analytics skills,  
+Pursuing **Data Science** and **Data related** Co-ops and developing my Analytics skills,  
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
 and Designing **APIs** for my new projects, with the final goal of turning my front-end projects into **full stack** projects  
   
@@ -24,6 +24,7 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 
+
 ## Tools
 
 ![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=213A5C)&nbsp;&nbsp;&nbsp;
@@ -32,6 +33,8 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ![](https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=F37626&color=213A5C)&nbsp;&nbsp;&nbsp;  
 ![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=Git&logoColor=F05032&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=Jira&logoColor=0052CC&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-GoogleSheets-informational?style=for-the-badge&logo=GoogleSheets&logoColor=34A853&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-GoogleCloud-informational?style=for-the-badge&logo=GoogleCloud&logoColor=4285F4&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 ## Current Statistics
 
