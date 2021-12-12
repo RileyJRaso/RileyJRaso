@@ -1,8 +1,14 @@
 Hi, I’m @RileyJRaso or you can call me Riley!  
   
 I’m interested in:  
-Pursuing **Data Science** and **Data related** Co-ops and developing my Analytics skills,  
+
+### Data Science
+Pursuing **Data Science** and **Data related** Co-ops and developing my Analytics skills through the use of python and libraries like numpy, pandas, and matplotlib.
+Using **APIs** to collect data and modifing it with pandas DataFrames. using **.csv** files to store data, and displaying with **pyplot** from matplotlib.
+
+### Front-End Development
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
+building react apps starting with a React Portfolio website at: **https://rileyjraso.github.io/React_Portfolio/**
 and Designing **APIs** for my new projects, with the final goal of turning my front-end projects into **full stack** projects  
   
 I’m currently working on projects with **React**, and **Data Science analytics** feel free to follow to get updates on these topics!
