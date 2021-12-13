@@ -28,19 +28,23 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ## Frameworks & Libraries
 
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=213A5C)&nbsp;&nbsp;&nbsp;
-
+![](https://img.shields.io/badge/-TensorFlow-informational?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&logoColor=150458&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 
 ## Tools
 
 ![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Ansible-informational?style=for-the-badge&logo=Ansible&logoColor=EE0000&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-Bamboo-informational?style=for-the-badge&logo=Bamboo&logoColor=0052CC&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Selenium-informational?style=for-the-badge&logo=Selenium&logoColor=43B02A&color=213A5C)&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=F37626&color=213A5C)&nbsp;&nbsp;&nbsp;  
+![](https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=F37626&color=213A5C)&nbsp;&nbsp;&nbsp;\
 ![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=Git&logoColor=F05032&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=Jira&logoColor=0052CC&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-GoogleSheets-informational?style=for-the-badge&logo=GoogleSheets&logoColor=34A853&color=213A5C)&nbsp;&nbsp;&nbsp;
-![](https://img.shields.io/badge/-GoogleCloud-informational?style=for-the-badge&logo=GoogleCloud&logoColor=4285F4&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-MicrosoftExcel-informational?style=for-the-badge&logo=MicrosoftExcel&logoColor=217346&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-GoogleCloud-informational?style=for-the-badge&logo=GoogleCloud&logoColor=4285F4&color=213A5C)&nbsp;&nbsp;&nbsp;\
+![](https://img.shields.io/badge/-Kaggle-informational?style=for-the-badge&logo=Kaggle&logoColor=20BEFF&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 ## Current Statistics
 
