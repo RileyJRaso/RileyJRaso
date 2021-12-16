@@ -6,6 +6,11 @@ I’m interested in:
 Pursuing **Data Science** and **Data related** Co-ops and developing my Analytics skills through the use of python and libraries like numpy, pandas, and matplotlib.
 Using **APIs** to collect data and modifing it with pandas DataFrames. using **.csv** files to store data, and displaying with **pyplot** from matplotlib.
 
+#### Projects In the Field of Data Science
+- Github_bigquery__analysis **https://github.com/RileyJRaso/Github_bigquery__analysis**
+- S-P-500-stock-data-Analysis **https://github.com/RileyJRaso/S-P-500-stock-data-Analysis**
+- Goal-Tracking **https://github.com/RileyJRaso/Goal-Tracking**
+
 ### Front-End Development
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
 building react apps starting with a React Portfolio website at: **https://rileyjraso.github.io/React_Portfolio/**
