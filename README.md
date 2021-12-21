@@ -41,6 +41,7 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-pandas-informational?style=for-the-badge&logo=pandas&logoColor=150458&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-TailwindCSS-informational?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 
 ## Tools
@@ -56,6 +57,7 @@ I’m currently working on projects with **React**, and **Data Science analytics
 ![](https://img.shields.io/badge/-MicrosoftExcel-informational?style=for-the-badge&logo=MicrosoftExcel&logoColor=217346&color=213A5C)&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/-GoogleCloud-informational?style=for-the-badge&logo=GoogleCloud&logoColor=4285F4&color=213A5C)&nbsp;&nbsp;&nbsp;\
 ![](https://img.shields.io/badge/-Kaggle-informational?style=for-the-badge&logo=Kaggle&logoColor=20BEFF&color=213A5C)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-Tableau-informational?style=for-the-badge&logo=Tableau&logoColor=E97627&color=213A5C)&nbsp;&nbsp;&nbsp;
 
 ## Current Statistics
 
