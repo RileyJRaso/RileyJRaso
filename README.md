@@ -7,9 +7,14 @@ Pursuing **Data Science** and **Data related** Co-ops and developing my Analytic
 Using **APIs** to collect data and modifing it with pandas DataFrames. using **.csv** files to store data, and displaying with **pyplot** from matplotlib.
 
 #### Projects In the Field of Data Science
+
+##### Scripts for exploratory analysis and data cleaning
 - Github_bigquery__analysis **https://github.com/RileyJRaso/Github_bigquery__analysis**
 - S-P-500-stock-data-Analysis **https://github.com/RileyJRaso/S-P-500-stock-data-Analysis**
 - Goal-Tracking **https://github.com/RileyJRaso/Goal-Tracking**
+
+##### visualizations
+- Gold_Anaysis_tableau **https://github.com/RileyJRaso/Gold_Anaysis_tableau**
 
 ### Front-End Development
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
