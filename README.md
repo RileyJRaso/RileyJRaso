@@ -16,15 +16,19 @@ Using **APIs** to collect data and modifing it with pandas DataFrames. using **.
 ##### visualizations
 - Gold_Anaysis_tableau **https://github.com/RileyJRaso/Gold_Anaysis_tableau**
 
-### Front-End Development
+### Development
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
 building react apps starting with a React Portfolio website at: **https://rileyjraso.github.io/React_Portfolio/**
-and Designing **APIs** for my new projects, with the final goal of turning my front-end projects into **full stack** projects  
+and Designing **APIs** for my new projects with both java and python, with the final goal of turning my front-end projects into **full stack** projects  
+writing a few programs with java and C++ to sharpen up those skills
 
 #### Projects In the Field of Front-End Development
 - React_Portfolio **https://rileyjraso.github.io/React_Portfolio/**
 - JS_TodoList **https://rileyjraso.github.io/JS_TodoList/**
 - JS_SoftwareEngineerSalarySearch **https://rileyjraso.github.io/JS_SoftwareEngineerSalarySearch/**
+
+#### Projects In the Field of back-End Development
+- Java_Deck_of_Cards **https://github.com/RileyJRaso/Java_Deck_of_Cards**
 
   
 I’m currently working on projects with **React**, and **Data Science analytics** feel free to follow to get updates on these topics!
