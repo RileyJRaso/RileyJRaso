@@ -70,7 +70,7 @@ I’m currently working on projects with **React**, and **Data Science analytics
 
 ## Current Statistics
 
-![Riley's GitHub Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=RileyJRaso&theme=prussian&hide=HTML,CSS")&nbsp;&nbsp;&nbsp;
+[![Riley's GitHub Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=RileyJRaso&theme=prussian&hide=HTML,CSS,")](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
 
 <!--
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyJRaso&show_icons=true&theme=prussian)&nbsp;&nbsp;&nbsp;
