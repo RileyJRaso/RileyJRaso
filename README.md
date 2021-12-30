@@ -20,7 +20,7 @@ Using **APIs** to collect data and modifing it with pandas DataFrames. using **.
 learning more **Front-End Development** frameworks and creating some more Javascript projects and dipping my feet into React and Vue.js, 
 building react apps starting with a React Portfolio website at: **https://rileyjraso.github.io/React_Portfolio/**
 and Designing **APIs** for my new projects with both java and python, with the final goal of turning my front-end projects into **full stack** projects  
-writing a few programs with java and C++ to sharpen up those skills
+writing a few programs with java and C# to sharpen up those skills
 
 #### Projects In the Field of Front-End Development
 - React_Portfolio **https://rileyjraso.github.io/React_Portfolio/**
